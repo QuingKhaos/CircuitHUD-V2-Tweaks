@@ -1,12 +1,13 @@
 {
-  "name": "###NAME###",
-  "title": "###TITLE###",
-  "description": "###DESCRIPTION###",
+  "name": "CircuitHUD-V2-Tweaks",
+  "title": "Circuit HUD V2 Tweaks",
+  "description": "Opinionated tweaks to Circuit HUD V2.",
   "author": "QuingKhaos",
   "homepage": "",
   "version": "1.0.0",
   "factorio_version": "2.0",
   "dependencies": [
-    "base >= 2.0.0"
+    "base >= 2.0.0",
+    "CircuitHUD-V2 >= 2.3.0"
   ]
 }
