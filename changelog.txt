@@ -1,3 +1,5 @@
 ---------------------------------------------------------------------------------------------------
 Version: 1.0.0
 Date: ????
+  Changes:
+    - [item=hud-combinator] Move to circuit-visual subgroup if SchallCircuitGroup is installed.
